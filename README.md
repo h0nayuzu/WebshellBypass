@@ -1,4 +1,4 @@
->在 GBByPass 的基础上增加了自定义冰蝎和一句话的密码的功能
+>在 GBByPass 的基础上增加了自定义冰蝎和一句话密码的功能
 https://github.com/czz1233/GBByPass
 
 
